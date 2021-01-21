@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-proyect-api": {
+      "hosting": {
+        "Angular8JwtAuth": [
+          "angular-proyect-api"
+        ]
+      }
+    }
+  }
+}
